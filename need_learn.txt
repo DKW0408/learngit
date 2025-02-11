@@ -1,0 +1,44 @@
+1. Swift技术栈总概要，见文件<Swift技术栈总概要>
+2. Swift当前开发流程，见文件<Swift开发流程>
+3. 开发工具的使用
+    3.1 VS2022的基础使用
+        不同文件类型的作用
+        查看引用、实现
+        调试（断点插入、报错信息、变量内容）
+        Nuget
+        **官方地址文档 https://docs.microsoft.com/zh-cn/visualstudio/windows/?view=vs-2022
+    3.2 Git的基础使用
+        常用操作：提取、拉取、推送、合并、变基、重置、挑拣
+        历史记录的对比
+        **学习资料参考 https://www.liaoxuefeng.com/wiki/896043488029600
+    3.3 Navicat的基础使用
+        表查询、数据查询
+
+4. 开发语言及第三方库的使用
+    4.1 WPF基础使用--MvvM模式
+        基础概念，了解每层作用
+        **https://www.cnblogs.com/dotnetHui/p/7904187.html
+        **https://docs.microsoft.com/zh-cn/dotnet/desktop/?view=netframeworkdesktop-4.8
+    4.2 Devexpress基础控件的使用
+        基础控件，TreeView、TableView、TextEdit、ComboBoxEdit、LookUpEdit、DateEdit、Button
+        **https://docs.devexpress.com/WPF/15112/mvvm-framework 
+    4.3 WebAPI基础使用
+        调用WebAPI接口
+        **https://docs.microsoft.com/zh-cn/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
+    4.4 C#10.0的基础使用
+        **https://docs.microsoft.com/zh-cn/dotnet/csharp/
+    4.5 移动端应用<手机端>
+        **https://uniapp.dcloud.net.cn/
+    4.6 移动端应用<PDA>
+       **https://learn.microsoft.com/zh-cn/dotnet/maui/what-is-maui?view=net-maui-9.0
+       
+5. 手册
+    5.1 编码风格规范
+        见文件<编码风格规范>
+    5.2 界面风格规范
+        **https://xc21i8.axshare.com    
+    5.3 Git使用规范
+        见文件<>
+    
+PS：学习资料可以申请购买，公司付钱，需要啥都可以申请；
+在公司期间是不允许翻看书籍的，书可以拿回家或宿舍看，想拿啥那啥，想啥时候归还就啥时候归还。
